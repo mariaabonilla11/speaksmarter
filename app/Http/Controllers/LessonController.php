@@ -35,6 +35,7 @@ class LessonController extends Controller
     public function store(Request $request)
     {
         //
+        return 'hola prueba'
     }
 
     /**
